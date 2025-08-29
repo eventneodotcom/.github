@@ -41,7 +41,7 @@ We welcome collaboration from developers, researchers, and event professionals.
 
 ## Connect
 - Website: [eventneo.com](http://eventneo.com)  
-- Instagram: [@eventneo](https://instagram.com/eventneo)  
+- Instagram: [@event.neo](https://instagram.com/event.neo)  
 
 ---
 
